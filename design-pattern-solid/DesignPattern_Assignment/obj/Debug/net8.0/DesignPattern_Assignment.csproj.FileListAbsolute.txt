@@ -1,0 +1,14 @@
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/bin/Debug/net8.0/DesignPattern_Assignment
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/bin/Debug/net8.0/DesignPattern_Assignment.deps.json
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/bin/Debug/net8.0/DesignPattern_Assignment.runtimeconfig.json
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/bin/Debug/net8.0/DesignPattern_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/bin/Debug/net8.0/DesignPattern_Assignment.pdb
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.AssemblyInfoInputs.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.AssemblyInfo.cs
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.csproj.CoreCompileInputs.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/refint/DesignPattern_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.pdb
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/DesignPattern_Assignment.genruntimeconfig.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/DesignPattern_Assignment/obj/Debug/net8.0/ref/DesignPattern_Assignment.dll

@@ -1,0 +1,14 @@
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/bin/Debug/net8.0/Solid_Assignment
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/bin/Debug/net8.0/Solid_Assignment.deps.json
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/bin/Debug/net8.0/Solid_Assignment.runtimeconfig.json
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/bin/Debug/net8.0/Solid_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/bin/Debug/net8.0/Solid_Assignment.pdb
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.AssemblyInfoInputs.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.AssemblyInfo.cs
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.csproj.CoreCompileInputs.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/refint/Solid_Assignment.dll
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.pdb
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/Solid_Assignment.genruntimeconfig.cache
+/Users/kjohithkumar/Downloads/WIPRO Training 2026/Dot NET Codes/Solid_Assignment/obj/Debug/net8.0/ref/Solid_Assignment.dll
